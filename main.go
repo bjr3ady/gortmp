@@ -1,12 +1,8 @@
 package main
 
 import (
-	//"./mpegts"
-	"./rtmp"
-	//"fmt"
-	//"os"
-	//"./avformat"
-	"./config"
+	"github.com/bjr3ady/gortmp/rtmp"
+	"github.com/bjr3ady/gortmp/config"
 )
 
 func main() {

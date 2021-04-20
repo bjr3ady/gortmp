@@ -1,7 +1,7 @@
 package hls
 
 import (
-	"../util"
+	"github.com/bjr3ady/gortmp/util"
 	"errors"
 	"fmt"
 	"os"

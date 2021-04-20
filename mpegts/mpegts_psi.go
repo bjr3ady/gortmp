@@ -1,7 +1,7 @@
 package mpegts
 
 import (
-	"../util"
+	"github.com/bjr3ady/gortmp/util"
 	"errors"
 	"fmt"
 	"io"
